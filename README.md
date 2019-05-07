@@ -58,7 +58,7 @@ which addresses the first three prerequisites.
 To set up your environment to run these notebooks, please follow these steps.  
 1. Clone the repo
 ```bash
-git clone repo
+git clone https://github.com/msalvaris/aksdemo
 ```
 
 2. Follow the instructions for your chosen framework
