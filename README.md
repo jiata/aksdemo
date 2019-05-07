@@ -2,9 +2,8 @@
 ## Overview
 In this repository there are a number of tutorials in Jupyter notebooks that have step-by-step instructions on how to deploy a pretrained deep learning model on a GPU enabled Kubernetes cluster throught Azure Machine Learning (AzureML). The tutorials cover how to deploy models from the following deep learning frameworks on specific deployment target:
 
-* Keras (TensorFlow backend)
-  - [Deploy Keras(TensorFlow) model on Azure Kubernetes Service (AKS) Cluster with GPUs](Keras_Tensorflow)
-  - [Deploy FastAI model using CVBP model on Azure Kubernetes Service (AKS) Cluster with GPUs](cvbp)
+- [Deploy Keras(TensorFlow) model on Azure Kubernetes Service (AKS) Cluster with GPUs](Keras_Tensorflow)
+- [Deploy FastAI model using CVBP model on Azure Kubernetes Service (AKS) Cluster with GPUs](cvbp)
 
 
 ![alt text](https://happypathspublic.blob.core.windows.net/aksdeploymenttutorialaml/example.png "Example Classification")
